@@ -6,6 +6,10 @@
 
 # certificado da Imersão Gamedev JavaScript
 
+<p>
+	Joguinho feito com o core do que foi passado na ImersaoGameDev JavaScript dispoibilizado gratuitamente pela <a href="https://www.linkedin.com/school/aluracursos/?originalSubdomain=br" target="_blank"> Alura.</a>
+</p>
+
 ## Para visualizar o meu certificado:
 
 ```
@@ -15,6 +19,5 @@ $ Abra o index.html em seu computador
 ```
 
 <h4 align="center">
-	Joguinho feito com o core do que foi passado na ImersaoGameDev JavaScript dispoibilizado gratuitamente pela <a href="https://www.linkedin.com/school/aluracursos/?originalSubdomain=br" target="_blank"> Alura.</a><br/>
     Faça conexão comigo: <a href="https://www.linkedin.com/in/thiago-de-mendon%C3%A7a-modesto-42bb23166/" target="_blank">LinkedIn</a>
 </h4>
